@@ -1,0 +1,6 @@
+langchain
+chromadb
+PyMuPDF
+langchain-community
+tiktoken
+cryptography
